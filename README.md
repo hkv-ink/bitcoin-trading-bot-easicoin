@@ -4,7 +4,7 @@
 
 ## 下载 Windows 安装包
 
-[下载 MountAlpha-EasiCoin-Setup.exe](https://github.com/hkv-ink/bitcoin-trading-bot-easicoin/releases/latest/download/MountAlpha-EasiCoin-Setup.exe) · [版本说明和 SHA-256 校验](https://github.com/hkv-ink/bitcoin-trading-bot-easicoin/releases/latest)
+[下载 MountAlpha-EasiCoin-Setup.exe](https://github.com/hkv-ink/bitcoin-trading-bot-easicoin/releases/latest/download/MountAlpha-EasiCoin-Setup.exe) · [版本说明和 SHA-256 校验](https://github.com/hkv-ink/bitcoin-trading-bot-easicoin/releases/latest) · [中文安装说明](https://hkv-ink.github.io/bitcoin-trading-bot-okx/easicoin/)
 
 需要 64 位 Windows。安装后从桌面「分析大师」进入，建议先使用模拟；模拟不需要交易所 API 或实盘授权。实盘需要有效设备授权、自己的 EasiCoin API 和手动启动。
 
